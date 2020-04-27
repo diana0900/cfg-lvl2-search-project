@@ -16,7 +16,7 @@ def get_ingredient():
         print("Great, let's see what we can do with {} and {}!".format(result, additionals))
     else:
         print("Alright, looks like we can work with {}.".format(result))
-return result
+ return result
         
 def get_diet():
     done = False
